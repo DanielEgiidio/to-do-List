@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+### To-Do-List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicação To do List, uma aplicação para listar seus afazeres diarios.
 
-## Available Scripts
+#### Características
+- A estrutura do site foi desenvolvida utilizando ReactJS, HTML5 e CSS3;
 
-In the project directory, you can run:
+### Images
 
-### `yarn start`
+![todo5](https://user-images.githubusercontent.com/45204474/121236459-5d2a2b80-c86c-11eb-98be-ae00a24580a4.PNG)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+------------
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+![Todo1](https://user-images.githubusercontent.com/45204474/121236458-5d2a2b80-c86c-11eb-8d50-3f296fe6a62b.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+------------
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![todo2](https://user-images.githubusercontent.com/45204474/121236462-5dc2c200-c86c-11eb-9f79-c77b57be731d.PNG)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+------------
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+![todo3](https://user-images.githubusercontent.com/45204474/121236452-5bf8fe80-c86c-11eb-84eb-b6c1c0c8d54d.PNG)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+------------
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![todo4](https://user-images.githubusercontent.com/45204474/121236456-5c919500-c86c-11eb-8601-4c4115fe8636.PNG)
 
-## Learn More
+------------
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ ##### O intuito da criação dessa aplicação foi a carater de estudo, a criação desta aplicação foi feita utilizando Reactjs, HTML5, CSS3.
