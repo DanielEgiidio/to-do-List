@@ -7,30 +7,29 @@ Aplicação To do List, uma aplicação para listar seus afazeres diarios.
 
 ### Images
 
-![todo5](https://user-images.githubusercontent.com/45204474/121236459-5d2a2b80-c86c-11eb-98be-ae00a24580a4.PNG)
+![Todo1](https://user-images.githubusercontent.com/45204474/121752080-c9639400-cae5-11eb-98ec-1cb472a72b0a.PNG)
 
-------------
-
-
-![Todo1](https://user-images.githubusercontent.com/45204474/121236458-5d2a2b80-c86c-11eb-8d50-3f296fe6a62b.PNG)
-
-------------
-
-
-![todo2](https://user-images.githubusercontent.com/45204474/121236462-5dc2c200-c86c-11eb-9f79-c77b57be731d.PNG)
-
-------------
-
-
-![todo3](https://user-images.githubusercontent.com/45204474/121236452-5bf8fe80-c86c-11eb-84eb-b6c1c0c8d54d.PNG)
 
 
 ------------
 
 
-![todo4](https://user-images.githubusercontent.com/45204474/121236456-5c919500-c86c-11eb-8601-4c4115fe8636.PNG)
+![Todo2](https://user-images.githubusercontent.com/45204474/121752085-ca94c100-cae5-11eb-856c-9957549ed78d.PNG)
 
 ------------
+
+
+
+![Todo3](https://user-images.githubusercontent.com/45204474/121752086-ca94c100-cae5-11eb-92e5-fc5bda0636a2.PNG)
+
+------------
+
+
+![Todo4](https://user-images.githubusercontent.com/45204474/121752088-cb2d5780-cae5-11eb-8a52-c9c67b3dfad7.PNG)
+
+
+------------
+
 
 
 
