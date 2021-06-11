@@ -25,7 +25,7 @@ export default function TodoList() {
           };
 
         const removeTodo = id => {
-            const removeArr = [...todos].filter(todo => todo.id !==id);
+            const removeArr = [...todos].filter(todo => todo.id !== id);
 
             setTodos(removeArr);
         };
@@ -46,6 +46,7 @@ export default function TodoList() {
             <h1>Quais são seus Planos para Hoje?</h1>
             <TodoForm onSubmit={addTodo} />
             <Todo todos={todos} completeTodo={completeTodo} removeTodo={removeTodo} updateTodo={updateTodo}/>
+            <h2>Todos restantes: {todos.filter(todo => !todo.isComplete).length}</h2>
         </div>
     );
 }
